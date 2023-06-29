@@ -1,4 +1,5 @@
 import React from "react";
+import "./App.css";
 
 import {
   Footer,
@@ -18,13 +19,13 @@ const App = () => {
         <Navbar />
         <Header />
       </div>
-      <Brand/>
-      <WhatGPT3/>
-      <Features/>
-      <Possibility/>
-      <Cta/>
-      <Blog/>
-      <Footer/>
+      <Brand />
+      <WhatGPT3 />
+      <Features />
+      <Possibility />
+      <Cta />
+      <Blog />
+      <Footer />
     </div>
   );
 };
